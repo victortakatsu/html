@@ -1,0 +1,69 @@
+.fundo {
+    background-image: url(imagens/fundo.png);
+}
+
+.fonte {
+    font-family:Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+.subtitle {
+    font-weight: bold;
+    font-size: larger;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.moldura1 {
+    border: peachpuff;
+    background-image: url(imagens/foto1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: peachpuff;
+    height: 445px;
+    width: 660px;
+}
+
+.moldura2 {
+    border: peachpuff;
+    background-image: url(imagens/foto2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: peachpuff;
+    height: 445px;
+    width: 660px;
+}
+
+.moldura3 {
+    border: peachpuff;
+    background-image: url(imagens/foto3.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: peachpuff;
+    height: 445px;
+    width: 660px;
+}
+
+#conteudo {
+    background: beige;
+    width: 880px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+    background: peachpuff;
+    width: 880px;
+    padding: 10px;
+}
+
+#rodape {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+}
